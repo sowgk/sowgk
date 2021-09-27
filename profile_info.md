@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: [CodePen](https://codepen.io/sowg)
+- 🧿 Specialties: UI/UX, CSS Illustrations and Recreations
 
 If you want a track of my learnings and certifications this in my FreeCodeCamp Profile : https://www.freecodecamp.org/sowg
 
