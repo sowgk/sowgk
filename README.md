@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sowgk
+- 👋 Hi, I’m Sowjanya!
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on nothing at the moment
