@@ -1,8 +1,10 @@
-👋 Viewer!
+![](https://komarev.com/ghpvc/?username=sowgk&color=ff69b4&style=plastic)
 
-My name is Sowjanya, and I am someone who is very much interested to CSS 👀💞️. I am Learning JS 🌱, I can do recreations of Dribbble Shots(UI and Illustrations 🧿) so if you have any ideas feal free to reach out on [CodePen](https://codepen.io/sowg) or In someother place!
 
-I don't have any interesting stuffs here, because I am learning to use GitHub, so If you want to see my work then my CodePen Profile is the way to go! 
+👋 Viewer👀!
+
+My name is Sowjanya, and I am very much interested to CSS💞️. I am Learning JS 🌱, I can do UI and Illustrations 🧿[CodePen].
+
 
 <details>
 	<summary>📫 Find me on other coding platforms!</summary></br>
@@ -13,9 +15,16 @@ I don't have any interesting stuffs here, because I am learning to use GitHub, s
 - <a href="https://dribbble.com/sowg"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" width="20px"></a>
 </details>
 
-Want to know about my Contributions on Github? Find out below!
+Want to know about my Activities on Github? Find out below!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sowgk&theme=buefy-dark&hide_border=true&stroke=DD56CB&background=CAB8FF&ring=9686C3&sideNums=3B00DD&currStreakLabel=3B00DD&dates=3D2C8D&currStreakNum=3B00DD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sowgk&theme=jolly&layout=compact)](https://git.io/streak-stats)
+
+[![Sowjanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowgk&theme=jolly&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Sowjanya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sowgk&theme=jolly&layout=compact)
+
+[![Sowjanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowgk&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sowgk/sowgk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
