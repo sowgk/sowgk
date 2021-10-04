@@ -24,7 +24,9 @@ Want to know about my Activities on Github? Find out below!
 
 ![Sowjanya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sowgk&theme=jolly&layout=compact)
 
-[![Sowjanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowgk&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Sowjanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowgk&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 sowgk/sowgk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
